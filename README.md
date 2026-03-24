@@ -19,7 +19,8 @@ MARKETPLACE PAGE IMAGE
 PROFILE PAGE IMAGE 
 SETTINGS PAGE IMAGE 
 
-
+FIGMA LINK BELOW 
+https://www.figma.com/design/bJ0BCxnpwF9uYnU0k5i1rQ/Untitled?node-id=0-1&t=3yWzyggpznXdSCox-1
 
 https://github.com/user-attachments/assets/935b975c-a287-4c3d-9425-a30c2c20806d
 
